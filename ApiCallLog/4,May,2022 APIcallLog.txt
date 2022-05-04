@@ -1,0 +1,210 @@
+****************************************
+
+=> Date : Wed May 04 2022 11:32:41 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"56262cef-4fc1-47e8-bd8f-640a448f9742","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"39"}
+=> result : undefined
+=> Request Body : {"op":"Get_State","id":2}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 11:51:09 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"0c0227c2-2798-4f43-b856-5301fe07b1ad","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"39"}
+=> result : undefined
+=> Request Body : {"op":"Get_State","id":2}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 13:34:43 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"56fffded-5fdd-4c90-96f7-f8e45d3d79ac","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"44"}
+=> result : undefined
+=> Request Body : {"op":"Get_State","id":3}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 13:41:56 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"a6a70217-e686-4a79-ad63-8139ca3c00b2","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"44"}
+=> result : undefined
+=> Request Body : {"op":"Get_State","id":3}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 13:42:33 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"5502dd10-5429-49f2-8e26-a8dac6b6d50b","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"44"}
+=> result : undefined
+=> Request Body : {"op":"Get_State","id":2}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 13:53:22 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"2bdef57c-1e10-4139-ae4e-b9ab5afdb5c1","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"26"}
+=> result : undefined
+=> Request Body : {"id":2}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 13:56:01 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"004b91a9-25d8-423c-aa6f-a77ec5a1b79a","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : undefined
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"2"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 14:04:30 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"3093a213-420a-4ed2-8010-a65cba77d6b0","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : undefined
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"2"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 14:05:41 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"89f1fa91-6e5b-47d1-aa12-1cd49baf1079","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : undefined
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"2"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 14:08:59 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"86f9108f-8086-4e56-b7f1-a64b382d2762","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"StateName":"Arunachal Pradesh","StateID":2}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"2"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 15:09:30 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"9a9e1d98-5e39-400c-b6d4-787d6f49592b","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"StateID":0,"StateName":"helllo","StateShortCode":"","IsVerified":true,"createddate":"2022-05-03T00:00:00.000Z","createdBy":0,"modifiedBy":null,"modifiedDate":"2022-05-03T00:00:00.000Z","isactive":true,"isdeleted":false},{"StateID":1,"StateName":"Andhra Pradesh","StateShortCode":"AP","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":2,"StateName":"Arunachal Pradesh","StateShortCode":"AR","IsVerified":true,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":true,"isdeleted":null},{"StateID":3,"StateName":"Assam","StateShortCode":"AS","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":4,"StateName":"Bihar","StateShortCode":"BR","IsVerified":true,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":5,"StateName":"Chhattisgarh","StateShortCode":"CG","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":6,"StateName":"Goa","StateShortCode":"GA","IsVerified":true,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":7,"StateName":"Gujarat","StateShortCode":"GJ","IsVerified":true,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":8,"StateName":"Haryana","StateShortCode":"HR","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":9,"StateName":"Himachal Pradesh","StateShortCode":"HP","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":10,"StateName":"Jammu and Kashmir","StateShortCode":"JK","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":11,"StateName":"Jharkhand","StateShortCode":"JH","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":12,"StateName":"Karnataka","StateShortCode":"KA","IsVerified":true,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":13,"StateName":"Kerala","StateShortCode":"KL","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":14,"StateName":"Madhya Pradesh","StateShortCode":"MP","IsVerified":true,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":15,"StateName":"Maharashtra","StateShortCode":"MH","IsVerified":true,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":16,"StateName":"Manipur","StateShortCode":"MN","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":17,"StateName":"Meghalaya","StateShortCode":"ML","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":18,"StateName":"Mizoram","StateShortCode":"MZ","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":19,"StateName":"Nagaland","StateShortCode":"NL","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":20,"StateName":"Odisha","StateShortCode":"OD","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":21,"StateName":"Punjab","StateShortCode":"PB","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":22,"StateName":"Rajasthan","StateShortCode":"RJ","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":23,"StateName":"Sikkim","StateShortCode":"SK","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":24,"StateName":"Tamil Nadu","StateShortCode":"TN","IsVerified":true,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":25,"StateName":"Telangana","StateShortCode":"TS","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":26,"StateName":"Tripura","StateShortCode":"TR","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":27,"StateName":"Uttar Pradesh","StateShortCode":"UP","IsVerified":true,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":28,"StateName":"Uttarakhand","StateShortCode":"UK","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":29,"StateName":"West Bengal","StateShortCode":"WB","IsVerified":false,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":null,"isdeleted":null},{"StateID":30,"StateName":"hello","StateShortCode":"tey","IsVerified":true,"createddate":"2022-05-04T00:00:00.000Z","createdBy":0,"modifiedBy":null,"modifiedDate":"2022-05-04T00:00:00.000Z","isactive":true,"isdeleted":false}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"2"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 15:10:19 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"30331e22-b90e-4214-84ba-6c4d8d513028","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"StateID":2,"StateName":"Arunachal Pradesh","StateShortCode":"AR","IsVerified":true,"createddate":null,"createdBy":null,"modifiedBy":null,"modifiedDate":null,"isactive":true,"isdeleted":null}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"2"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 15:24:46 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"4e5533f4-ba96-43d7-9a9b-38949c8d15b6","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"StateName":"Arunachal Pradesh","StateID":2}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"2"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 16:06:36 GMT+0530 (India Standard Time)
+=> Request Type : POST
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"b1feb327-c296-44ea-88ec-3d971bf1efd3","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"28"}
+=> result : undefined
+=> Request Body : {"statename":"gott"}
+=> Message : Updated User Data successfully
+=> URL : {}
+=> Params : {"id":"30"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 16:07:12 GMT+0530 (India Standard Time)
+=> Request Type : POST
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"b9f2dcc9-37aa-4561-8304-1ba8aa544da8","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"28"}
+=> result : undefined
+=> Request Body : {"statename":"gott"}
+=> Message : Updated Data successfully
+=> URL : {}
+=> Params : {"id":"30"}
+=> 
+
+****************************************
+

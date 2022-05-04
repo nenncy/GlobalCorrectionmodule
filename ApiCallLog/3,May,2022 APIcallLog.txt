@@ -1,0 +1,57 @@
+****************************************
+
+=> Date : Tue May 03 2022 15:32:15 GMT+0530 (India Standard Time)
+=> Request Type : [object Object]
+=> Request Header : {"op":"Get_State","id":0}
+=> Query : [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+=>result : undefined
+=> Request Body : "Successfully get data"
+=> Message : GET
+=> URL : undefined
+=> Params : {}
+=> Query Params: "/state"
+
+****************************************
+
+****************************************
+
+=> Date : Tue May 03 2022 15:37:03 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"91d02fcc-d37a-4df3-9f97-9c83c2882f2c","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"39"}
+=> result : undefined
+=> Request Body : {"op":"Get_State","id":0}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Tue May 03 2022 15:38:24 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"262a042d-89fd-4041-8cf7-26b2f54dab28","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"39"}
+=> result : undefined
+=> Request Body : {"op":"Get_State","id":0}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Tue May 03 2022 15:43:35 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"0bd36bc8-cb11-4a95-b7d7-0078d508533b","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"39"}
+=> result : undefined
+=> Request Body : {"op":"Get_State","id":0}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
