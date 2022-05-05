@@ -1,0 +1,98 @@
+****************************************
+
+=> Date : Thu May 05 2022 12:57:10 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"8eb12239-2aed-4840-820c-db55417192d6","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : []
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"3"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Thu May 05 2022 12:57:38 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"b8d561f6-16fb-4728-b99b-5407b3f41da8","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : []
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"1"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Thu May 05 2022 12:59:46 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"bea6023a-26a4-4c1a-a542-e06c43de0de2","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"TalukaID":1,"TalukaName":"lakhpat"}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"1"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Thu May 05 2022 13:09:31 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"ecbe9b4f-24e1-4196-830c-a3bd7941dd20","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"StateID":7,"StateName":"Gujarat","DistrictID":1,"DistrictName":"kutch","TalukaID":1,"TalukaName":"lakhpat"}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"1"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Thu May 05 2022 13:17:19 GMT+0530 (India Standard Time)
+=> Request Type : POST
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"71a93863-9b0f-4d36-bee2-ab5779981d48","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"45"}
+=> result : undefined
+=> Request Body : {"name":"lathi","districtid":2}
+=> Message : Successfully inserted data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Thu May 05 2022 13:18:20 GMT+0530 (India Standard Time)
+=> Request Type : POST
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"7c6df9ee-75ef-475e-909e-e85550f385ba","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"47"}
+=> result : undefined
+=> Request Body : {"name":"lakhpat","districtid":2}
+=> Message : Successfully inserted data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Thu May 05 2022 13:23:58 GMT+0530 (India Standard Time)
+=> Request Type : POST
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"122142f8-df73-41d2-82fe-ada37d8483a6","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"48"}
+=> result : undefined
+=> Request Body : {"name":"lakhpatt","districtid":3}
+=> Message : Successfully inserted data
+=> URL : {}
+=> Params : {"id":"2147"}
+=> 
+
+****************************************
+

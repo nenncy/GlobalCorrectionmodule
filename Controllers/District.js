@@ -2,7 +2,6 @@ const router=require('express').Router();
 const {config,poolPromise}=require('../Dbconfig/db');
 const sql=require('mssql');
 
-var TableUser='tblState';
 const sqlstring = require('sqlstring');
 
 
