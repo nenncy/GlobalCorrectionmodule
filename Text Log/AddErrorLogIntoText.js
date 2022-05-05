@@ -1,7 +1,11 @@
 var fs = require('fs');
-var Toggle=require('../Dbconfig/db');
+var Toggle = {
+        // Error mode in text file
+          ErrorLogMode: true,
+          SecurityMode: false 
+        }
 
-var APIErrorLog = (Query, err, headers, body, message, type, params, query, url) => {
+var APIErrorLog = (Query,err, headers, body, message, type, params, query, url) => {
         var myDate = new Date();
         date = myDate.getDate();
         Month = myDate.getMonth();

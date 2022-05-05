@@ -23,9 +23,9 @@ class State{
         try{
             const pool = await poolPromise
             const result = await pool.request()
-        
+             .input('Operation','Get_State')
             .input('State_ID',req.params.id)
-            .execute('sp_GetState')
+            .execute('sp_State')
          const statedata=result.recordsets;
          var successmsg = `Successfully get data`;
 
@@ -48,9 +48,10 @@ class State{
         try{
             const pool = await poolPromise
             const result = await pool.request()
+            .input('Operation','Insert_State')
             .input('StateName',req.body.statename)
             .input('StateShortCode',req.body.code)
-            .execute('sp_AddState')
+            .execute('sp_State')
             //.query(`INSERT INTO tblState (StateName,StateShortCode,IsVerified,createddate,createdBy,isactive,isdeleted) VALUES (${req.body.statename},${req.body.code},1,${DateTime},null,1,0)`)
             
             //const statedata= result;
@@ -81,11 +82,11 @@ class State{
 
             const pool = await poolPromise
             const result = await pool.request()
+            .input('Operation','Update_State')
             .input('State_Id',req.params.id)
             .input('StateName',req.body.statename)
-            
     
-              .execute('sp_UpdateState')
+              .execute('sp_State')
                const statedata= result;
                 if (result.rowsAffected<=0){
                     res.status(400).json({err: 'Invalid data entry'})

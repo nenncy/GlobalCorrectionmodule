@@ -208,3 +208,157 @@
 
 ****************************************
 
+****************************************
+
+=> Date : Wed May 04 2022 16:44:39 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"1864bcfe-6854-44f7-afb2-956f5286ec4d","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : []
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"2"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 16:44:58 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"97e4674c-31c2-4be7-8d4a-f14a2217e2da","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"DistrictID":1,"DistrictName":"kutch"},{"DistrictID":2,"DistrictName":"banaskantha"},{"DistrictID":3,"DistrictName":"patan"},{"DistrictID":4,"DistrictName":"mahesana"},{"DistrictID":5,"DistrictName":"sabarkantha"},{"DistrictID":6,"DistrictName":"gandhinagar"},{"DistrictID":7,"DistrictName":"ahmedabad"},{"DistrictID":8,"DistrictName":"surendranagar"},{"DistrictID":9,"DistrictName":"rajkot"},{"DistrictID":10,"DistrictName":"jamnagar"},{"DistrictID":11,"DistrictName":"porbandar"},{"DistrictID":12,"DistrictName":"junagadh"},{"DistrictID":13,"DistrictName":"amreli"},{"DistrictID":14,"DistrictName":"bhavnagar"},{"DistrictID":15,"DistrictName":"anand"},{"DistrictID":16,"DistrictName":"kheda"},{"DistrictID":17,"DistrictName":"panchmahal"},{"DistrictID":18,"DistrictName":"dahod"},{"DistrictID":19,"DistrictName":"vadodara"},{"DistrictID":20,"DistrictName":"narmada"},{"DistrictID":21,"DistrictName":"bharuch"},{"DistrictID":22,"DistrictName":"surat"},{"DistrictID":23,"DistrictName":"dang"},{"DistrictID":24,"DistrictName":"navsari"},{"DistrictID":25,"DistrictName":"valsad"},{"DistrictID":26,"DistrictName":"tapi"},{"DistrictID":27,"DistrictName":"dev bhumi dwarka"},{"DistrictID":28,"DistrictName":"morbi"},{"DistrictID":29,"DistrictName":"gir somnath"},{"DistrictID":30,"DistrictName":"botad district"},{"DistrictID":31,"DistrictName":"arvalli"},{"DistrictID":32,"DistrictName":"mahisagar"},{"DistrictID":33,"DistrictName":"chotaudaipur"}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"7"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 16:54:38 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"3ea3d7c5-6801-4336-9a85-4b63843ce616","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"DistrictID":4,"DistrictName":"mahesana","StateID":7,"StateName":"Gujarat"}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"4"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 17:03:23 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"38673369-7d03-4a53-bef8-2dc3abfe2c34","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"StateName":"Arunachal Pradesh","StateID":2}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"2"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 17:05:59 GMT+0530 (India Standard Time)
+=> Request Type : POST
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"70b60f5a-2656-482b-aaf1-6d4fcb0fb822","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"27"}
+=> result : undefined
+=> Request Body : {"statename":"got"}
+=> Message : Updated Data successfully
+=> URL : {}
+=> Params : {"id":"30"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 17:30:27 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"d0643dfb-cf77-4cac-b45b-71bb7e1e738a","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"DistrictID":1,"DistrictName":"kutch"},{"DistrictID":2,"DistrictName":"banaskantha"},{"DistrictID":3,"DistrictName":"patan"},{"DistrictID":4,"DistrictName":"mahesana"},{"DistrictID":5,"DistrictName":"sabarkantha"},{"DistrictID":6,"DistrictName":"gandhinagar"},{"DistrictID":7,"DistrictName":"ahmedabad"},{"DistrictID":8,"DistrictName":"surendranagar"},{"DistrictID":9,"DistrictName":"rajkot"},{"DistrictID":10,"DistrictName":"jamnagar"},{"DistrictID":11,"DistrictName":"porbandar"},{"DistrictID":12,"DistrictName":"junagadh"},{"DistrictID":13,"DistrictName":"amreli"},{"DistrictID":14,"DistrictName":"bhavnagar"},{"DistrictID":15,"DistrictName":"anand"},{"DistrictID":16,"DistrictName":"kheda"},{"DistrictID":17,"DistrictName":"panchmahal"},{"DistrictID":18,"DistrictName":"dahod"},{"DistrictID":19,"DistrictName":"vadodara"},{"DistrictID":20,"DistrictName":"narmada"},{"DistrictID":21,"DistrictName":"bharuch"},{"DistrictID":22,"DistrictName":"surat"},{"DistrictID":23,"DistrictName":"dang"},{"DistrictID":24,"DistrictName":"navsari"},{"DistrictID":25,"DistrictName":"valsad"},{"DistrictID":26,"DistrictName":"tapi"},{"DistrictID":27,"DistrictName":"dev bhumi dwarka"},{"DistrictID":28,"DistrictName":"morbi"},{"DistrictID":29,"DistrictName":"gir somnath"},{"DistrictID":30,"DistrictName":"botad district"},{"DistrictID":31,"DistrictName":"arvalli"},{"DistrictID":32,"DistrictName":"mahisagar"},{"DistrictID":33,"DistrictName":"chotaudaipur"}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"7"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 17:34:52 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"e6bb38aa-5031-405a-8027-01d06ce08c21","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"DistrictID":1,"DistrictName":"kutch"},{"DistrictID":2,"DistrictName":"banaskantha"},{"DistrictID":3,"DistrictName":"patan"},{"DistrictID":4,"DistrictName":"mahesana"},{"DistrictID":5,"DistrictName":"sabarkantha"},{"DistrictID":6,"DistrictName":"gandhinagar"},{"DistrictID":7,"DistrictName":"ahmedabad"},{"DistrictID":8,"DistrictName":"surendranagar"},{"DistrictID":9,"DistrictName":"rajkot"},{"DistrictID":10,"DistrictName":"jamnagar"},{"DistrictID":11,"DistrictName":"porbandar"},{"DistrictID":12,"DistrictName":"junagadh"},{"DistrictID":13,"DistrictName":"amreli"},{"DistrictID":14,"DistrictName":"bhavnagar"},{"DistrictID":15,"DistrictName":"anand"},{"DistrictID":16,"DistrictName":"kheda"},{"DistrictID":17,"DistrictName":"panchmahal"},{"DistrictID":18,"DistrictName":"dahod"},{"DistrictID":19,"DistrictName":"vadodara"},{"DistrictID":20,"DistrictName":"narmada"},{"DistrictID":21,"DistrictName":"bharuch"},{"DistrictID":22,"DistrictName":"surat"},{"DistrictID":23,"DistrictName":"dang"},{"DistrictID":24,"DistrictName":"navsari"},{"DistrictID":25,"DistrictName":"valsad"},{"DistrictID":26,"DistrictName":"tapi"},{"DistrictID":27,"DistrictName":"dev bhumi dwarka"},{"DistrictID":28,"DistrictName":"morbi"},{"DistrictID":29,"DistrictName":"gir somnath"},{"DistrictID":30,"DistrictName":"botad district"},{"DistrictID":31,"DistrictName":"arvalli"},{"DistrictID":32,"DistrictName":"mahisagar"},{"DistrictID":33,"DistrictName":"chotaudaipur"}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"7"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 17:37:01 GMT+0530 (India Standard Time)
+=> Request Type : GET
+=> Request Header : {"user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"93791b7a-d675-44df-913f-e6ac068486ba","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+=> result : [{"DistrictID":3,"DistrictName":"patan","StateID":7,"StateName":"Gujarat"}]
+=> Request Body : {}
+=> Message : Successfully get data
+=> URL : {}
+=> Params : {"id":"3"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 18:06:40 GMT+0530 (India Standard Time)
+=> Request Type : POST
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"f726dc05-195e-4cd1-af56-46694dbfdfe5","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"43"}
+=> result : undefined
+=> Request Body : {"name":"Amreli","stateid":2}
+=> Message : Successfully inserted data
+=> URL : {}
+=> Params : {}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 18:21:42 GMT+0530 (India Standard Time)
+=> Request Type : POST
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"5f4a05a4-e218-4dfe-8208-1833b5624c34","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"43"}
+=> result : undefined
+=> Request Body : {"name":"Amreli","stateid":3}
+=> Message : Successfully Updated data
+=> URL : {}
+=> Params : {"id":"247"}
+=> 
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 18:24:35 GMT+0530 (India Standard Time)
+=> Request Type : POST
+=> Request Header : {"content-type":"application/json","user-agent":"PostmanRuntime/7.29.0","accept":"*/*","cache-control":"no-cache","postman-token":"5d26b1b6-7335-48da-9014-0a438285326b","host":"localhost:3001","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"43"}
+=> result : undefined
+=> Request Body : {"name":"Amreli","stateid":2}
+=> Message : Successfully Updated data
+=> URL : {}
+=> Params : {"id":"247"}
+=> 
+
+****************************************
+

@@ -1,0 +1,75 @@
+****************************************
+
+=> Date : Wed May 04 2022 17:33:13 GMT+0530 (India Standard Time)
+=> Request Type : [object Object]
+=> Request Header : {}
+=> Query : RequestError: @StateID is not a parameter for procedure sp_District.
+=> Error : [object Object]
+=> Request Body : "An error occured!"
+=> Message : GET
+=> URL : undefined
+=> Params : {}
+=> Query Params: "/district/get/7"
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 17:36:19 GMT+0530 (India Standard Time)
+=> Request Type : [object Object]
+=> Request Header : {}
+=> Query : RequestError: @DistrictID is not a parameter for procedure sp_District.
+=> Error : [object Object]
+=> Request Body : "An error occured!"
+=> Message : GET
+=> URL : undefined
+=> Params : {}
+=> Query Params: "/district/Getdistrictbyid/3"
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 18:03:09 GMT+0530 (India Standard Time)
+=> Request Type : [object Object]
+=> Request Header : {"name":"Amreli","stateid":2}
+=> Query : RequestError: SQL injection warning for param ' DistrictName'
+=> Error : [object Object]
+=> Request Body : "An error occured!"
+=> Message : POST
+=> URL : undefined
+=> Params : {}
+=> Query Params: "/district/adddistrict"
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 18:03:59 GMT+0530 (India Standard Time)
+=> Request Type : [object Object]
+=> Request Header : {"name":"Amreli","stateid":2}
+=> Query : RequestError: SQL injection warning for param ' DistrictName'
+=> Error : [object Object]
+=> Request Body : "An error occured!"
+=> Message : POST
+=> URL : undefined
+=> Params : {}
+=> Query Params: "/district/adddistrict"
+
+****************************************
+
+****************************************
+
+=> Date : Wed May 04 2022 18:04:25 GMT+0530 (India Standard Time)
+=> Request Type : [object Object]
+=> Request Header : {"name":"Amreli","stateid":2}
+=> Query : RequestError: The INSERT statement conflicted with the FOREIGN KEY constraint "FK__tblDistri__Regio__75035A77". The conflict occurred in database "jn-common", table "dbo.tblMHregion", column 'RegionID'.
+=> Error : [object Object]
+=> Request Body : "An error occured!"
+=> Message : POST
+=> URL : undefined
+=> Params : {}
+=> Query Params: "/district/adddistrict"
+
+****************************************
+
